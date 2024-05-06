@@ -1,36 +1,31 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# 📚Site com a API Futebol
 
-First, run the development server:
+Projeto feito no módulo do meu curso, o intuito é montar o site e conectar a API do site
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+[Api Utilizada](!https://api-futebol.com.br/)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Por ser a versão gratuita, os times não abrem com a informação real, sempre voltando o Avai
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+## ▶ Como Executar o Código?
 
-To learn more about Next.js, take a look at the following resources:
+É necessário ter o Node instalado e utilizar o comando npm run dev
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## 🎞 Imagens do Projeto
+![image](https://github.com/viladavi6/time-futebol/assets/158050165/70d530a6-89da-4335-a942-ce1edc261edf)
+![image](https://github.com/viladavi6/time-futebol/assets/158050165/8e717b09-1ea6-4bf0-97b9-394318047e8d)
+![image](https://github.com/viladavi6/time-futebol/assets/158050165/02bee0d2-e171-402c-ac21-d4d5ac2d750c)
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## ⚙ Ferramentas Utilizadas 
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<div>
+  <img width="50px" lang="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img width="50px" lang="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img width="50px" lang="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+  <img width="50px" lang="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" />      
+  <img width="50px" lang="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />        
+</div>
