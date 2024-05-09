@@ -5,7 +5,7 @@ const getTeamsById: (id: string) => Promise<iTeams> = async(id) => {
     const api = `https://api.api-futebol.com.br/v1/times/${id}`;
 
     const res = await fetch(`${api}`, {
-        headers: {  Authorization: "Bearer test_c08191ad11c0ed8e09be7e9140d136"},
+        headers: {  Authorization: "Bearer "}, /* inserir sua key após o nearer */
     });
 
     return res.json();
