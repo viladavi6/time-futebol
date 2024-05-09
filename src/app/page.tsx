@@ -10,7 +10,7 @@ const getAllTeams: () => Promise<iTeams[]> = async () => {
 
   try {
     const res = await fetch(`${api}`, {
-      headers: { Authorization: "Bearer test_c08191ad11c0ed8e09be7e9140d136" },
+      headers: { Authorization: "Bearer " }, /* inserir sua key após o bearer */
     });
 
     const data = await res.json();
